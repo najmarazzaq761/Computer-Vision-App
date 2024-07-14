@@ -1,5 +1,4 @@
-
-#Computer Vision Streamlit App
+# Computer Vision Streamlit App
 
 I've developed a Streamlit app 
 
